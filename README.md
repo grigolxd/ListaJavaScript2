@@ -6,7 +6,7 @@
 1 - Clonar esse repositório dentro da sua pasta de preferência: 
 ```
 cd sua-pasta
-git clone https://github.com/grigolxd/ListaExerciciosJS.git 
+git clone https://github.com/grigolxd/ListaJavaScript2.git 
 ```
 2 - Instalar as dependencias, nesse caso apenas uma:
 ```
